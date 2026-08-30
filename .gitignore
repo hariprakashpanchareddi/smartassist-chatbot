@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+smartassist-env/
+*.sqlite3
+*.db
+data/chroma_db/
